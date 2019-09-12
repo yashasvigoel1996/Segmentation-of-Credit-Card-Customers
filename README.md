@@ -1,1 +1,1 @@
-# Segmentation-of-Credit-Card-Customers
+# Go through CREDIT CARD - SEGMENTATION CASE STUDY.pdf
